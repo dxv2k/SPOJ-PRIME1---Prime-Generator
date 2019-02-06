@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 
-#define MAX 10
+#define MAX 10 // Should be changed if input is larger
 
 using namespace std;
 
